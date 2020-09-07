@@ -1,13 +1,7 @@
-[
-		{
-			"img":"/ipo/images/storage/HappiestMindsLogo.png",
-			"name":"Happiest Minds",
-            "link":"/happiest-minds-ipo",
-            "QIB" : "0.00",
-            "NII" : "0.04",
-            "Retail" : "2.18",
-            "Total" : "0.41",
-            "lastUpdated" : "10.49 AM, 7 Sep",
-			"isLatestNews" : true
-		}
-]
+{
+
+	"!!!HAPPIEST-MINDS-QIB!!!" : "0.00",
+	"!!!HAPPIEST-MINDS-NII!!!" : "0.04",
+	"!!!HAPPIEST-MINDS-RETAIL!!!" : "2.18",
+	"!!!HAPPIEST-MINDS-TOTAL!!!" : "0.41"
+}
